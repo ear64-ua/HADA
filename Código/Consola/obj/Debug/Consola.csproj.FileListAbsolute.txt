@@ -1,0 +1,7 @@
+C:\Users\1234\Desktop\HADA\Repaso\Consola\bin\Debug\Consola.exe.config
+C:\Users\1234\Desktop\HADA\Repaso\Consola\bin\Debug\Consola.exe
+C:\Users\1234\Desktop\HADA\Repaso\Consola\bin\Debug\Consola.pdb
+C:\Users\1234\Desktop\HADA\Repaso\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\1234\Desktop\HADA\Repaso\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\1234\Desktop\HADA\Repaso\Consola\obj\Debug\Consola.exe
+C:\Users\1234\Desktop\HADA\Repaso\Consola\obj\Debug\Consola.pdb

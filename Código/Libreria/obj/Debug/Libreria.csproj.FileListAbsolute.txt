@@ -1,0 +1,6 @@
+C:\Users\1234\Desktop\HADA\Repaso\Libreria\bin\Debug\Libreria.dll
+C:\Users\1234\Desktop\HADA\Repaso\Libreria\bin\Debug\Libreria.pdb
+C:\Users\1234\Desktop\HADA\Repaso\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\1234\Desktop\HADA\Repaso\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\1234\Desktop\HADA\Repaso\Libreria\obj\Debug\Libreria.dll
+C:\Users\1234\Desktop\HADA\Repaso\Libreria\obj\Debug\Libreria.pdb
